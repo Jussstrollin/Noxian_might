@@ -12,14 +12,14 @@
 		"declaringWar": "Don't turn Your back.. or Risk exposing your neck..",
 		"attacked": "Defy Noxus and you will taste your Blood",
 		"defeated": "History forgets, But the black rose remembers..",
-		"introduction": "I supposed we have another seat in the table.",
+		"introduction": "You have our attention... Do not Disappoint..",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": ["",""],
-		"neutralNo": ["","",""],
-		"neutralYes": ["","",""],
+		"neutralHello": "Speak, if your words hold weight.",
+		"neutralLetsHearIt": ["Don't waste our time.","State your terms, swiftly."],
+		"neutralNo": ["A futile gesture.","Your weakness is noted."],
+		"neutralYes": ["It serves Noxus.","Adequate","It's.. passable"],
 
-		"hateHello": "",
+		"hateHello": "", //what you see if you have netive relationship
 		"hateLetsHearIt": ["","",""],
 		"hateNo": ["","",""],
 		"hateYes": ["","",""],
