@@ -19,17 +19,34 @@
 		"neutralNo": ["A futile gesture.","Your weakness is noted."],
 		"neutralYes": ["It serves Noxus.","Adequate","It's.. passable"],
 
-		"hateHello": "", //what you see if you have netive relationship
-		"hateLetsHearIt": ["","",""],
-		"hateNo": ["","",""],
-		"hateYes": ["","",""],
+		"hateHello": "What sacrifice will it be?", //what you see if you have netive relationship
+		"hateLetsHearIt": ["Have you made your mind? Tick..tick..tick ,Time is ticking","A demand?","Another nation may fall..watch the words"],
+		"hateNo": ["Terrible , And that is being generous","What insolense!","calling this adequate is being generous"],
+		"hateYes": ["It seems you value your life","even an Idiot can be taught","Continue to serve useful"],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
-
+		
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [180,0,0],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["" ,"Q'",]
-	}
+		"cities": [
+			"Immortal Bastion",
+			"Q'Noxus Prime",
+			"Q'Basilikon",
+			"Q'Lochmar",
+       			"Q'Ironhold",
+       			"Q'Bloodfort",
+       			"Q'Grimhall",
+       			"Q'Skullgate",
+       			"Q'Warfang",
+       			"Q'Conqueria",
+       			"Q'Dreadfort",
+       			"Q'Blade's Edge",
+       			"Q'Cinderkeep",
+       			"Q'Vorlag",
+       			"Q'Skorn",
+       			"Q'Tyrant's Reach",
+       			"Q'Gauntlet",
+       			"Q'Obsidian Bastion",
+       			"Q'Rathian"
+		]
 ]
